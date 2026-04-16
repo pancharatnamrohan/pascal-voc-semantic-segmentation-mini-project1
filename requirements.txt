@@ -1,0 +1,10 @@
+torch
+torchvision
+segmentation-models-pytorch
+transformers
+opencv-python
+numpy
+matplotlib
+pandas
+scikit-learn
+scipy
